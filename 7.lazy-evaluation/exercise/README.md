@@ -1,7 +1,5 @@
 # Bloxorz
 
-## Lazy lists
-
 Bloxorz is a game which you can access [here](https://www.miniclip.com/games/bloxorz/en/). As a first step for this assignment, *play it* for a few levels.
 
 The objective of Bloxorz is simple; you must navigate your rectangular block to the hole at the end of the board, by rolling it, in the fewest number of moves possible. A block can be moved in 4 possible directions, left, right, up, down, using the appropriate keys on the keyboard.
